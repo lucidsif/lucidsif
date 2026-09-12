@@ -1,6 +1,6 @@
 ### Hi, I'm Tawsif
 
-Software engineer, 10+ years in. I work on digital accessibility and on AI that runs on hardware you own. Based in Austin, Texas.
+Developer, 10+ years in. I work on digital accessibility and on AI that runs on hardware you own. Based in Austin, Texas.
 
 **Right now**
 
