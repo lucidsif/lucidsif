@@ -5,7 +5,7 @@ Developer, 10+ years in. I work on digital accessibility and on AI that runs on 
 **Right now**
 
 - [PerennialA11y](https://www.perenniala11y.com): my consulting practice where i do accessibility and private/local AI engineering. IAAP CPACC certified.
-- [Mir'at](https://mirat.studio): a personal knowledge and operating system with an LLM interface and an integrity layer underneath it. I run it on myself first. Not open yet.
+- [Mir'at](https://mirat.studio): a second brain operating system with an LLM interface and an integrity layer underneath it. I run it on myself first. Not open yet. Landing page is outdated. 
 - [cpacc-exam-prep](https://github.com/lucidsif/cpacc-exam-prep): a CPACC study app I built while studying for the exam, then opened up. Zero runtime deps, targets WCAG 2.2 AA, and every AI-touched piece of content carries a provenance badge. The README includes an honest account of what the AI-written accessibility code got wrong before an audit caught it.
 - [civics-exam-prep](https://github.com/lucidsif/civics-exam-prep): a study app for the U.S. naturalization civics test, built for my wife.
 
